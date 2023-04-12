@@ -1,0 +1,92 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #1a323e;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+header {
+    height: 95px;
+    padding: 1rem;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.slider{
+    height: 40%;
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+.slider img{
+    height: 25rem;
+    width: 100%;
+    background-size: contain;
+}
+
+.principal {
+    height: 45rem;
+}
+
+.principal .descripcion{
+    text-align: center;
+    margin: .5rem 0;
+    font-size: 35px;
+}
+
+.principal .parrafo {
+    text-align: center;
+    margin: 1rem 6rem;
+    font-size: 20px;
+}
+
+.principal .personajes {
+    text-align: center;
+    margin: .5rem 0;
+    font-size: 30px;
+}
+
+.principal .ul-pesonajes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 75%;
+    list-style: none;
+    overflow: hidden;
+}
+
+.principal .ul-pesonajes li {
+    height: 13rem;
+    margin: 1rem;
+    text-align: center;
+    overflow: hidden;
+    border: 3px solid #000;
+    background-color: #052a3d;
+}
+
+.principal .ul-pesonajes li img {
+   height: 75%;
+}
+
+.principal .ul-pesonajes li h3{
+    margin-top: 0.7rem;
+}
