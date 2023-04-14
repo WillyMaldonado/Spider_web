@@ -1,3 +1,9 @@
 body{
     background-color: #043E5B;
  }
+ #imagenes
+.container{
+    display: flex;
+    justify-content: last baseline;
+}
+#textos
