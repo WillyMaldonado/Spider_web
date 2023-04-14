@@ -1,4 +1,25 @@
  /*Lesther y Vincent */
-body{
+ body{
     background-color: #043E5B;
  }
+ title {
+    color: white;  
+    }
+ p {
+    color: white;
+  }
+
+  h2 {
+    color: white;
+  }
+  h1 {
+    color: white;
+  } 
+  h4 {
+    color: white;
+  } 
+ #imagenes
+.container{
+    display: flex;
+    justify-content: last baseline;
+}
