@@ -90,3 +90,25 @@ header {
 .principal .ul-pesonajes li h3{
     margin-top: 0.7rem;
 }
+@media screen and (max-width: 480px) {
+    body {
+      font-size: 16px;
+    }
+  }
+@media screen and (max-width: 768px) {
+    #nav {
+        display: none;
+      }
+    
+      #menu-toggle {
+        display: block;
+      }
+    
+      #menu-toggle:checked ~ #nav {
+        display: block;
+      }
+      #content {
+        width: 100%;
+        padding: 0 20px;
+      }
+    }
