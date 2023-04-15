@@ -24,7 +24,7 @@ a {
 }
 
 header {
-    height: 95px;
+    height: 30rem;
     padding: 1rem;
     text-align: center;
     font-size: 2rem;
@@ -32,7 +32,7 @@ header {
 }
 
 .slider{
-    height: 40%;
+    height: 90%;
     overflow: hidden;
     margin-bottom: 2rem;
 }
@@ -40,7 +40,7 @@ header {
 .slider img{
     height: 25rem;
     width: 100%;
-    background-size: contain;
+    background-size: cover;
 }
 
 .principal {
