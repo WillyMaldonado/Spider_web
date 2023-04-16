@@ -69,19 +69,16 @@ header {
     flex-wrap: wrap;
     justify-content: space-around;
     height: 75%;
-    width: 4rem;
+    width: 10rem;
     list-style: none;
     overflow: hidden;
 }
 
 .principal .ul-pesonajes li {
     height: 13rem;
-    width: 3.7rem;
     margin: 1rem;
     text-align: center;
     overflow: hidden;
-    border: 3px solid #000;
-    background-color: #052a3d;
     overflow: hidden;
 }
 
@@ -91,7 +88,10 @@ header {
 
 .principal .ul-pesonajes li h3{
     margin-top: 0.7rem;
+    text-align: center;
 }
+
+
 @media screen and (max-width: 480px) {
     body {
       font-size: 16px;
