@@ -94,7 +94,19 @@ header {
 
 /**Lesther*/
 /* Estilo para tablets */
-@media (min-width: 780px) and (max-width: 1024px) {
+/* Estilos para tablets */
+@media (min-width: 768px) and (max-width: 1024px) {
+    body {
+      font-size: 16px;
+    }
+    .container {
+      width: 90%;
+      margin: 0 auto;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
   }
   
 /**VyncenIphoneYsamsung*/
