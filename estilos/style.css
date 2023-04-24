@@ -91,18 +91,10 @@ header {
     text-align: center;
 }
 
+
 /**Lesther*/
 /* Estilo para tablets */
-@media screen and (min-width: 768px) {
-    .container {
-      width: 90%; 
-      margin: 0 auto; 
-    }
-    /* Estilos para las imágenes */
-    img {
-      max-width: 100%; 
-      height: auto; 
-    }
+@media (min-width: 780px) and (max-width: 1024px) {
   }
   
 /**VyncenIphoneYsamsung*/
