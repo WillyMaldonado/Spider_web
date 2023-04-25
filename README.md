@@ -10,7 +10,7 @@ a la ingeniería en informática y sistemas. Fue hecho sobre la película “spi
 - Rocio Iveth Cojulúm Juárez
 
 La página se hizo con el uso de las herramientas 
-Html y CSS, GitHub y GitHub desktop, buscando emplear todos los conocimientos transmitidos 
+HTML y CSS, GitHub y GitHub desktop, buscando emplear todos los conocimientos transmitidos 
 durante este primer ciclo.
 En la siguiente página estaremos dando información sobre Spiderman, relacionada con los comics, las 
 películas, los villanos y más datos relevantes sobre este personaje tan amado del universo de Marvel, el cual ha
