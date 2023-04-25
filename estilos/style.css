@@ -159,6 +159,12 @@ footer {
     background-color: #10161d;
 }
 
+footer img{
+    width: 75px;
+    height: 75px;
+}
+
+
 footer .img_equipo{
     display: grid;
     justify-content: space-around;
@@ -185,11 +191,13 @@ footer h2{
 
 footer .info ul{
     list-style: none;
+
 }
 
 footer .info li{
     font-size: 20px;
     margin: 1rem 0;
+    color: #ccc;
 }
 
 
