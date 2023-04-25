@@ -36,7 +36,11 @@ header {
     margin-bottom: 2rem;
 }
 
-.slider img{
+.slider a{
+    width: 100%;    
+}
+
+.slider a img{
     height: 23rem;
     width: 100%;
     background-size: cover;
