@@ -36,11 +36,7 @@ header {
     margin-bottom: 2rem;
 }
 
-.slider a{
-    width: 100%;    
-}
-
-.slider a img{
+.slider img{
     height: 23rem;
     width: 100%;
     background-size: cover;
@@ -122,10 +118,44 @@ header {
     width: 150px;
 }
 
-footer .info {
-    margin-top: 5rem;
+footer {
+    margin-top: 7rem;
+    padding: 2rem;
+    background-color: #10161d;
 }
 
+footer .img_equipo{
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: auto auto auto auto;
+}
+
+footer .img_equipo div{
+    height: 15rem;
+    width: 15rem;
+    margin: 1rem;
+}
+
+footer .img_equipo div img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+footer h2{
+    margin: 0rem 1rem 2rem 1rem;
+    text-align: center;
+    font-size: 35px;
+}
+
+footer .info ul{
+    list-style: none;
+}
+
+footer .info li{
+    font-size: 20px;
+    margin: 1rem 0;
+}
 
 
 /**Lesther*/
