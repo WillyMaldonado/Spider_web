@@ -91,6 +91,10 @@ header {
     text-align: center;
 }
 
+footer .info {
+    margin-top: 5rem;
+}
+
 
 /**Lesther*/
 /* Estilo para tablets */
