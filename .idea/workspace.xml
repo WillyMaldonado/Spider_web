@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17020669-fffc-4158-bb3d-78e0f364e85b" name="Changes" comment="se cambio">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ImgGerardo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/imgCarlos.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/imgGrecia.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/imgGuille.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_spiderman.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_spiderman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estilos/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilos/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
