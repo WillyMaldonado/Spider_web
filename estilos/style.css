@@ -189,6 +189,11 @@ footer h2{
     font-size: 35px;
 }
 
+footer .info{
+    float: left;
+    width: 75%;
+}
+
 footer .info ul{
     list-style: none;
 
