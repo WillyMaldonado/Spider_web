@@ -106,6 +106,10 @@ header {
     height: 180px;
     width: 150px;
 }
+.peliculas ul li {
+    list-style: none
+    ;
+}
 
 
 footer {
