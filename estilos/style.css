@@ -92,7 +92,7 @@ header {
  }
 
  
-.peliculas ul{
+ .peliculas ul{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -172,8 +172,8 @@ footer .info li{
         margin: 0 auto; 
     }
   
-    img {
+footer .info li{
       max-width: 60%;
       height: auto; 
     }
-} 
+}
