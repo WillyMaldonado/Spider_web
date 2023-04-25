@@ -14,7 +14,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     width: 100%;
-    background-color: #1a323e;
+    background-color: #182b35;
 }
 
 a {
@@ -37,7 +37,7 @@ header {
 }
 
 .slider img{
-    height: 25rem;
+    height: 23rem;
     width: 100%;
     background-size: cover;
 }
@@ -92,25 +92,100 @@ header {
 }
 
 
-@media screen and (max-width: 480px) {
+.peliculas {
+    width: 50%;
+    float: right;
+}
+
+.peliculas h2{
+    margin-bottom: 1rem;
+}
+
+.peliculas ul{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: .5rem;
+}
+
+.peliculas ul li h3{
+    margin-bottom: 0.5rem;
+    color: #000;
+}
+
+.peliculas ul li img{
+    height: 180px;
+    width: 150px;
+}
+
+footer {
+    margin-top: 7rem;
+    padding: 2rem;
+    background-color: #10161d;
+}
+
+footer .img_equipo{
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: auto auto auto auto;
+}
+
+footer .img_equipo div{
+    height: 15rem;
+    width: 15rem;
+    margin: 1rem;
+}
+
+footer .img_equipo div img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+footer h2{
+    margin: 0rem 1rem 2rem 1rem;
+    text-align: center;
+    font-size: 35px;
+}
+
+footer .info ul{
+    list-style: none;
+}
+
+footer .info li{
+    font-size: 20px;
+    margin: 1rem 0;
+}
+
+
+/**Lesther*/
+/* Estilo para tablets */
+/* Estilos para tablets */
+@media (min-width: 768px) and (max-width: 1024px) {
     body {
       font-size: 16px;
     }
-  }
-@media screen and (max-width: 768px) {
-    #nav {
-        display: none;
-      }
-    
-      #menu-toggle {
-        display: block;
-      }
-    
-      #menu-toggle:checked ~ #nav {
-        display: block;
-      }
-      #content {
-        width: 100%;
-        padding: 0 20px;
-      }
+    .container {
+      width: 90%;
+      margin: 0 auto;
     }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  
+/**VyncenIphoneYsamsung*/
+/**VyncenIphoneYsamsung*/ 
+@media screen and (min-width: 300px) { 
+    .container {    width: 100%; 
+        margin: 0 auto; 
+    }
+  
+    img {
+      max-width: 60%;
+      height: auto; 
+    }
+} 
+  
+    
