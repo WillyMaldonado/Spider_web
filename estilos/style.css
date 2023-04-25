@@ -114,50 +114,15 @@ header {
 }
 
 .peliculas ul li img{
-    height: 150px;
-    width: 125px;
+    height: 180px;
+    width: 150px;
 }
-=======
+
 footer .info {
     margin-top: 5rem;
 }
 
-section {
-    height: 50rem;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    background-color: red;
-}
 
-section ul {
-    list-style: none;
-}
-
-.actores {
-    height: 35rem;
-    width: 45%;
-    margin-top: 8rem;
-    float: left;
-}
-
-.actores .imagenes {
-    width: 65%;
-    height: 100%;
-    float: left;
-}
-
-.actores ul li {
-    margin: 1rem;
-}
-
-.actores ul li img{
-    height: 150px;
-    width: 150px;
-}
-
-.actores .texto li {
-    margin:1.5rem 0rem;
-}
 
 /**Lesther*/
 /* Estilo para tablets */
